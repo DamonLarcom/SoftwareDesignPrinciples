@@ -1,0 +1,14 @@
+C:\Users\Damon Larcom\source\repos\SoftwareDesignPrinciples\IteratorCompositeLab\obj\Debug\netcoreapp3.1\IteratorCompositeLab.csproj.AssemblyReference.cache
+C:\Users\Damon Larcom\source\repos\SoftwareDesignPrinciples\IteratorCompositeLab\obj\Debug\netcoreapp3.1\IteratorCompositeLab.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Damon Larcom\source\repos\SoftwareDesignPrinciples\IteratorCompositeLab\obj\Debug\netcoreapp3.1\IteratorCompositeLab.AssemblyInfoInputs.cache
+C:\Users\Damon Larcom\source\repos\SoftwareDesignPrinciples\IteratorCompositeLab\obj\Debug\netcoreapp3.1\IteratorCompositeLab.AssemblyInfo.cs
+C:\Users\Damon Larcom\source\repos\SoftwareDesignPrinciples\IteratorCompositeLab\obj\Debug\netcoreapp3.1\IteratorCompositeLab.csproj.CoreCompileInputs.cache
+C:\Users\Damon Larcom\source\repos\SoftwareDesignPrinciples\IteratorCompositeLab\bin\Debug\netcoreapp3.1\IteratorCompositeLab.exe
+C:\Users\Damon Larcom\source\repos\SoftwareDesignPrinciples\IteratorCompositeLab\bin\Debug\netcoreapp3.1\IteratorCompositeLab.deps.json
+C:\Users\Damon Larcom\source\repos\SoftwareDesignPrinciples\IteratorCompositeLab\bin\Debug\netcoreapp3.1\IteratorCompositeLab.runtimeconfig.json
+C:\Users\Damon Larcom\source\repos\SoftwareDesignPrinciples\IteratorCompositeLab\bin\Debug\netcoreapp3.1\IteratorCompositeLab.runtimeconfig.dev.json
+C:\Users\Damon Larcom\source\repos\SoftwareDesignPrinciples\IteratorCompositeLab\bin\Debug\netcoreapp3.1\IteratorCompositeLab.dll
+C:\Users\Damon Larcom\source\repos\SoftwareDesignPrinciples\IteratorCompositeLab\bin\Debug\netcoreapp3.1\IteratorCompositeLab.pdb
+C:\Users\Damon Larcom\source\repos\SoftwareDesignPrinciples\IteratorCompositeLab\obj\Debug\netcoreapp3.1\IteratorCompositeLab.dll
+C:\Users\Damon Larcom\source\repos\SoftwareDesignPrinciples\IteratorCompositeLab\obj\Debug\netcoreapp3.1\IteratorCompositeLab.pdb
+C:\Users\Damon Larcom\source\repos\SoftwareDesignPrinciples\IteratorCompositeLab\obj\Debug\netcoreapp3.1\IteratorCompositeLab.genruntimeconfig.cache

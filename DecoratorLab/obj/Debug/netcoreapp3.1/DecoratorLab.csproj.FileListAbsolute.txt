@@ -1,0 +1,14 @@
+C:\Users\Damon Larcom\source\repos\SoftwareDesignPrinciples\DecoratorLab\bin\Debug\netcoreapp3.1\DecoratorLab.exe
+C:\Users\Damon Larcom\source\repos\SoftwareDesignPrinciples\DecoratorLab\bin\Debug\netcoreapp3.1\DecoratorLab.deps.json
+C:\Users\Damon Larcom\source\repos\SoftwareDesignPrinciples\DecoratorLab\bin\Debug\netcoreapp3.1\DecoratorLab.runtimeconfig.json
+C:\Users\Damon Larcom\source\repos\SoftwareDesignPrinciples\DecoratorLab\bin\Debug\netcoreapp3.1\DecoratorLab.runtimeconfig.dev.json
+C:\Users\Damon Larcom\source\repos\SoftwareDesignPrinciples\DecoratorLab\bin\Debug\netcoreapp3.1\DecoratorLab.dll
+C:\Users\Damon Larcom\source\repos\SoftwareDesignPrinciples\DecoratorLab\bin\Debug\netcoreapp3.1\DecoratorLab.pdb
+C:\Users\Damon Larcom\source\repos\SoftwareDesignPrinciples\DecoratorLab\obj\Debug\netcoreapp3.1\DecoratorLab.csproj.AssemblyReference.cache
+C:\Users\Damon Larcom\source\repos\SoftwareDesignPrinciples\DecoratorLab\obj\Debug\netcoreapp3.1\DecoratorLab.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Damon Larcom\source\repos\SoftwareDesignPrinciples\DecoratorLab\obj\Debug\netcoreapp3.1\DecoratorLab.AssemblyInfoInputs.cache
+C:\Users\Damon Larcom\source\repos\SoftwareDesignPrinciples\DecoratorLab\obj\Debug\netcoreapp3.1\DecoratorLab.AssemblyInfo.cs
+C:\Users\Damon Larcom\source\repos\SoftwareDesignPrinciples\DecoratorLab\obj\Debug\netcoreapp3.1\DecoratorLab.csproj.CoreCompileInputs.cache
+C:\Users\Damon Larcom\source\repos\SoftwareDesignPrinciples\DecoratorLab\obj\Debug\netcoreapp3.1\DecoratorLab.dll
+C:\Users\Damon Larcom\source\repos\SoftwareDesignPrinciples\DecoratorLab\obj\Debug\netcoreapp3.1\DecoratorLab.pdb
+C:\Users\Damon Larcom\source\repos\SoftwareDesignPrinciples\DecoratorLab\obj\Debug\netcoreapp3.1\DecoratorLab.genruntimeconfig.cache

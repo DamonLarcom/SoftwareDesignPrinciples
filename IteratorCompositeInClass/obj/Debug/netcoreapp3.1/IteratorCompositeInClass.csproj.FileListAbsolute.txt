@@ -1,0 +1,14 @@
+C:\Users\Damon Larcom\source\repos\SoftwareDesignPrinciples\IteratorCompositeInClass\bin\Debug\netcoreapp3.1\IteratorCompositeInClass.exe
+C:\Users\Damon Larcom\source\repos\SoftwareDesignPrinciples\IteratorCompositeInClass\bin\Debug\netcoreapp3.1\IteratorCompositeInClass.deps.json
+C:\Users\Damon Larcom\source\repos\SoftwareDesignPrinciples\IteratorCompositeInClass\bin\Debug\netcoreapp3.1\IteratorCompositeInClass.runtimeconfig.json
+C:\Users\Damon Larcom\source\repos\SoftwareDesignPrinciples\IteratorCompositeInClass\bin\Debug\netcoreapp3.1\IteratorCompositeInClass.runtimeconfig.dev.json
+C:\Users\Damon Larcom\source\repos\SoftwareDesignPrinciples\IteratorCompositeInClass\bin\Debug\netcoreapp3.1\IteratorCompositeInClass.dll
+C:\Users\Damon Larcom\source\repos\SoftwareDesignPrinciples\IteratorCompositeInClass\bin\Debug\netcoreapp3.1\IteratorCompositeInClass.pdb
+C:\Users\Damon Larcom\source\repos\SoftwareDesignPrinciples\IteratorCompositeInClass\obj\Debug\netcoreapp3.1\IteratorCompositeInClass.csproj.AssemblyReference.cache
+C:\Users\Damon Larcom\source\repos\SoftwareDesignPrinciples\IteratorCompositeInClass\obj\Debug\netcoreapp3.1\IteratorCompositeInClass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Damon Larcom\source\repos\SoftwareDesignPrinciples\IteratorCompositeInClass\obj\Debug\netcoreapp3.1\IteratorCompositeInClass.AssemblyInfoInputs.cache
+C:\Users\Damon Larcom\source\repos\SoftwareDesignPrinciples\IteratorCompositeInClass\obj\Debug\netcoreapp3.1\IteratorCompositeInClass.AssemblyInfo.cs
+C:\Users\Damon Larcom\source\repos\SoftwareDesignPrinciples\IteratorCompositeInClass\obj\Debug\netcoreapp3.1\IteratorCompositeInClass.csproj.CoreCompileInputs.cache
+C:\Users\Damon Larcom\source\repos\SoftwareDesignPrinciples\IteratorCompositeInClass\obj\Debug\netcoreapp3.1\IteratorCompositeInClass.dll
+C:\Users\Damon Larcom\source\repos\SoftwareDesignPrinciples\IteratorCompositeInClass\obj\Debug\netcoreapp3.1\IteratorCompositeInClass.pdb
+C:\Users\Damon Larcom\source\repos\SoftwareDesignPrinciples\IteratorCompositeInClass\obj\Debug\netcoreapp3.1\IteratorCompositeInClass.genruntimeconfig.cache

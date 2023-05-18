@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "IteratorCompositeLab/1.0.0": {
+        "runtime": {
+          "IteratorCompositeLab.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "IteratorCompositeLab/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

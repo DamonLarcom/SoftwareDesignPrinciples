@@ -1,0 +1,14 @@
+C:\Users\Damon Larcom\source\repos\SoftwareDesignPrinciples\CommandPattern\bin\Debug\netcoreapp3.1\CommandPattern.exe
+C:\Users\Damon Larcom\source\repos\SoftwareDesignPrinciples\CommandPattern\bin\Debug\netcoreapp3.1\CommandPattern.deps.json
+C:\Users\Damon Larcom\source\repos\SoftwareDesignPrinciples\CommandPattern\bin\Debug\netcoreapp3.1\CommandPattern.runtimeconfig.json
+C:\Users\Damon Larcom\source\repos\SoftwareDesignPrinciples\CommandPattern\bin\Debug\netcoreapp3.1\CommandPattern.runtimeconfig.dev.json
+C:\Users\Damon Larcom\source\repos\SoftwareDesignPrinciples\CommandPattern\bin\Debug\netcoreapp3.1\CommandPattern.dll
+C:\Users\Damon Larcom\source\repos\SoftwareDesignPrinciples\CommandPattern\bin\Debug\netcoreapp3.1\CommandPattern.pdb
+C:\Users\Damon Larcom\source\repos\SoftwareDesignPrinciples\CommandPattern\obj\Debug\netcoreapp3.1\CommandPattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Damon Larcom\source\repos\SoftwareDesignPrinciples\CommandPattern\obj\Debug\netcoreapp3.1\CommandPattern.AssemblyInfoInputs.cache
+C:\Users\Damon Larcom\source\repos\SoftwareDesignPrinciples\CommandPattern\obj\Debug\netcoreapp3.1\CommandPattern.AssemblyInfo.cs
+C:\Users\Damon Larcom\source\repos\SoftwareDesignPrinciples\CommandPattern\obj\Debug\netcoreapp3.1\CommandPattern.csproj.CoreCompileInputs.cache
+C:\Users\Damon Larcom\source\repos\SoftwareDesignPrinciples\CommandPattern\obj\Debug\netcoreapp3.1\CommandPattern.dll
+C:\Users\Damon Larcom\source\repos\SoftwareDesignPrinciples\CommandPattern\obj\Debug\netcoreapp3.1\CommandPattern.pdb
+C:\Users\Damon Larcom\source\repos\SoftwareDesignPrinciples\CommandPattern\obj\Debug\netcoreapp3.1\CommandPattern.genruntimeconfig.cache
+C:\Users\Damon Larcom\source\repos\SoftwareDesignPrinciples\CommandPattern\obj\Debug\netcoreapp3.1\CommandPattern.csproj.AssemblyReference.cache
